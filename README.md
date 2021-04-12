@@ -5,5 +5,12 @@ Teste de criação de repo no Github
 
 Olá me chamo Mariana, tenho 29 anos e sou curitibana.  
 
+![pexels-william-brand-1058314](https://user-images.githubusercontent.com/78593956/114462054-ea2c6d80-9bb8-11eb-9fad-9104e8b66695.jpg)
 
-![00](https://user-images.githubusercontent.com/78593956/114460046-a7b66100-9bb7-11eb-9a1d-9fdfb93962ad.jpg)
+Curitiba é uma cidade linda e gosto muito de morar aqui
+
+
+
+
+
+
